@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "df0ec380-9dce-11e7-8d17-834cd45a63b2",
+  "do_objectID": "9F5D69E9-6FD6-4804-93DA-9A90580872AD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -34,71 +34,59 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "30014714-5B4E-464C-857D-CBF7A8937FE0"
+      "id": "A591112C-993A-4C3F-A35D-8259C816F0E9"
     },
     {
       "class": "artboard",
-      "id": "BE100A14-7C9B-4484-BBB1-D7D4F1D887CF"
+      "id": "B3AA8503-7439-4A9B-B332-5FD5B07C65FE"
     },
     {
       "class": "artboard",
-      "id": "1E1718CC-995C-4F9C-A926-6339E33F9B01"
+      "id": "4F72FEF4-61A8-40EB-90ED-1346A5BD233A"
     },
     {
       "class": "artboard",
-      "id": "2B14EA44-1736-4D67-B7F5-20E8C8216E88"
+      "id": "23E50FE8-344E-4474-B87E-EDCBE476AAD7"
     },
     {
       "class": "artboard",
-      "id": "7DB4BEF3-6641-4401-BA81-605C71331B3A"
+      "id": "86B13D44-F742-41D0-A2AC-5442E06525F1"
     },
     {
       "class": "artboard",
-      "id": "E079AD58-85CA-4C41-8CD0-0C6D92004636"
+      "id": "636580BD-0A1F-4023-A6B6-6D29C71C7489"
     },
     {
       "class": "artboard",
-      "id": "D7AC2FDE-9D88-441E-82A0-4F6E4E486275"
+      "id": "A75ED213-01EF-4255-A8D1-A8D8A30E8DA2"
     },
     {
       "class": "artboard",
-      "id": "BCCC0948-7512-4AC5-A62C-AF251897B930"
+      "id": "AAC91A36-231C-4AD8-BDB5-A5B0934C05D0"
     },
     {
       "class": "artboard",
-      "id": "385EDCD7-F827-4591-99C6-EDE47437529D"
+      "id": "59BA435E-0B2A-47EF-964F-9BB6F22B880A"
     },
     {
       "class": "artboard",
-      "id": "4D2BF6CE-34E2-4790-A0F3-226483928228"
+      "id": "756FF7F7-DCF2-4842-93FC-9BEE99BC6C85"
     },
     {
       "class": "artboard",
-      "id": "CC752A0F-FA12-4345-AA04-15C789454605"
+      "id": "DEDA34AF-2212-4AD0-BE55-1E10169590AD"
     },
     {
       "class": "artboard",
-      "id": "EF707605-C382-4719-A2F4-8B0B44BD922E"
+      "id": "EFF2FAEC-EA34-4D4D-B562-5D79994CC33A"
     },
     {
       "class": "artboard",
-      "id": "D4CD1FE4-4FD7-4E3E-B5B9-F4DC2060D75A"
-    },
-    {
-      "class": "artboard",
-      "id": "3282A2FC-C84B-40B6-BE3B-353F5C08589E"
-    },
-    {
-      "class": "artboard",
-      "id": "66DBB093-2CA3-4EFE-8B75-7C5D12F92AB9"
-    },
-    {
-      "class": "artboard",
-      "id": "32C9EC2B-3E5D-41FF-A4FE-9897B1531032"
+      "id": "A1DD3B78-0B04-4225-8BCF-9761E5F63235"
     }
   ],
   "name": "Page 1",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
