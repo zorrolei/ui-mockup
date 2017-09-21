@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "96D310B8-6C74-4BB4-9218-00CDF562C575",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 576,
+    "width": 284,
+    "x": 310,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A4B47DD8-EE93-45DD-8D49-7459208E7D17"
+    },
+    {
+      "class": "group",
+      "id": "7D73C35C-B4CE-4DDA-B026-3F2D4063A307"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFFE45DA-60EF-402E-AD40-D32CEBB0926A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C86FFF6-C7DD-41B2-8567-41DD4AC13B82"
+    }
+  ],
+  "name": "phone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 19,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
