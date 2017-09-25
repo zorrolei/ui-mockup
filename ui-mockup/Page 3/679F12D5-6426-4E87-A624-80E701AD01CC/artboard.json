@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.984313725490196,
-    "green": 0.9725490196078431,
-    "red": 0.9568627450980391
+    "blue": 0.8901960784313725,
+    "green": 0.4549019607843137,
+    "red": 0.580392156862745
   },
   "do_objectID": "679F12D5-6426-4E87-A624-80E701AD01CC",
   "exportOptions": {
@@ -41,14 +41,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "F73E65C8-7038-4C0D-A411-51C700253B22"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "888DD7E2-2DDA-4B62-AFD7-1725B26A88AA"
-    },
     {
       "class": "group",
       "id": "EFF89D1B-218D-430B-AA54-1BBA0D034ACB"
