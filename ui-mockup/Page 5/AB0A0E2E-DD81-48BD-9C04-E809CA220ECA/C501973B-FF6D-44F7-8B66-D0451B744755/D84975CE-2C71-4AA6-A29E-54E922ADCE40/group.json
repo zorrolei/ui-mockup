@@ -1,5 +1,7 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D84975CE-2C71-4AA6-A29E-54E922ADCE40",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,6 +21,8 @@
     "y": 86.9748263888889
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,19 +30,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "6BA2453D-DA99-4E72-89A0-37D154314C1C"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "3C266E78-5AD2-420C-8A53-AB0A635EE6DA"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "98A116DC-2862-42F9-AFCE-D94ACEDB38D2"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "E42C333D-D808-4FC6-A7B1-AD00C2BEA4F4"
     }
   ],
@@ -56,10 +60,12 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 6,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }
